@@ -5,7 +5,7 @@ This research project aims to improve the accuracy of heart failure prediction m
 # Algorithms Used
 The following supervised learning classification algorithms were analyzed:
 
-Logistic Regression
+> Logistic Regression
 K-Nearest Neighbors (KNN)
 Naive Bayes
 Support Vector Machine (SVM)
